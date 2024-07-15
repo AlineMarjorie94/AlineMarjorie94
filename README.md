@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 Cursando 1° semestre de Analise e Desenvolvimento de Sistemas na FATEC - Taquaritinga
-- 📫 E-mail: alinemarjorie94@gmail.com 
+- 📫 E-mail: aline-marjorie@hotmail.com 
 - 😄 Pronomes: Ela/Dela
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
