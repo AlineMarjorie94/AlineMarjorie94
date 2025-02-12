@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Cursando 1° semestre de Analise e Desenvolvimento de Sistemas na FATEC - Taquaritinga
+- 🌱 Cursando 3° semestre de Analise e Desenvolvimento de Sistemas na FATEC - Taquaritinga
 - 📫 E-mail: aline-marjorie@hotmail.com 
 - 😄 Pronomes: Ela/Dela
 ##
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Rafa-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div>
 
 ##
