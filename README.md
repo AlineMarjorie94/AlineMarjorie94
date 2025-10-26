@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Cursando 3° semestre de Analise e Desenvolvimento de Sistemas na FATEC - Taquaritinga
+- 🌱 Cursando 4° semestre de Analise e Desenvolvimento de Sistemas na FATEC - Taquaritinga
 - 📫 E-mail: aline-marjorie@hotmail.com 
 - 😄 Pronomes: Ela/Dela
 ##
